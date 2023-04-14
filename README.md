@@ -14,3 +14,10 @@
 
 # Demo video
 https://user-images.githubusercontent.com/130762532/232063694-4a511202-9c1a-4401-a870-a8b16bf96674.mp
+
+
+# Preview
+  <p float="left">
+  <img src="https://user-images.githubusercontent.com/130762532/232064365-1023ccee-9aa5-4234-99d6-495a4b62f4b6.png" width="100" />
+</p>
+  
